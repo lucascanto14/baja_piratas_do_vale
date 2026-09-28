@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório centraliza o desenvolvimento dos sistemas **eletrônicos, embarcados, telemetria e análise de dados** do protótipo Baja SAE da equipe **Piratas do Vale**. 
 
@@ -24,7 +24,7 @@ O objetivo principal é realizar a aquisição de dados em tempo real, monitoram
 
 ---
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```text
 baja_piratas_do_vale/
