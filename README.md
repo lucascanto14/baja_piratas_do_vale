@@ -42,11 +42,11 @@ baja_piratas_do_vale/
 │   ├── core/                         # Firmware principal da ECU / Unidade Central
 │   └── modules_test/                 # Códigos isolados para teste e calibração de sensores
 │
-├── data_analysis/                    # Análise de dados pós-corrida e pós-treino[cite: 1]
-│   ├── notebooks/                    # Jupyter Notebooks ou scripts Python/MATLAB[cite: 1]
-│   ├── raw_data/                     # Logs brutos salvos no SD / Telemetria (.csv)[cite: 1]
-│   └── processed_data/               # Dados filtrados e processados[cite: 1]
+├── data_analysis/                    # Análise de dados pós-corrida e pós-treino
+│   ├── notebooks/                    # Jupyter Notebooks ou scripts Python/MATLAB
+│   ├── raw_data/                     # Logs brutos salvos no SD / Telemetria (.csv)
+│   └── processed_data/               # Dados filtrados e processados
 │
-└── interface/                        # Interfaces visuais e Dashboards[cite: 1]
-    ├── dashboard_embarcado/          # Display do piloto[cite: 1]
-    └── telemetria_pit/               # Software do box / telemetria via rádio[cite: 1]via rádio[cite: 1]
+└── interface/                        # Interfaces visuais e Dashboards
+    ├── dashboard_embarcado/          # Display do piloto
+    └── telemetria_pit/               # Software do box / telemetria via rádio[cite: 1]via rádio
