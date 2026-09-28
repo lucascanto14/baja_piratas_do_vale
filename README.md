@@ -27,26 +27,26 @@ O objetivo principal é realizar a aquisição de dados em tempo real, monitoram
 ## 📂 Estrutura do Repositório
 
 ```text
-baja-telemetry-electronics/
+baja_piratas_do_vale/
 │
 ├── docs/                             # Documentação técnica, manuais, pinout e banner
 │   ├── banner_piratas_do_vale.png    # Imagem de capa do repositório
-│   ├── pinout_placa_principal.md
-│   └── manual_sensores.md
+│   ├── pinout_placa_principal.md     # Mapeamento de pinos dos microcontroladores
+│   └── manual_sensores.md            # Especificações de calibração dos sensores
 │
-├── hardware/                         # Esquemáticos, PCBs e CAD elétrico
-│   ├── schematics/                   # Esquemáticos dos circuitos
-│   └── datasheets/                   # Datasheets de componentes e sensores
+├── hardware/                         # Esquemáticos, PCBs e CAD elétrico[cite: 1]
+│   ├── schematics/                   # Esquemáticos dos circuitos[cite: 1]
+│   └── datasheets/                   # Datasheets de componentes e sensores[cite: 1]
 │
-├── embedded/                         # Códigos dos microcontroladores
-│   ├── core/                         # Código principal da ECU / Unidade Central
-│   └── modules_test/                 # Códigos de teste e calibração de sensores
+├── embedded/                         # Códigos dos microcontroladores[cite: 1]
+│   ├── core/                         # Firmware principal da ECU / Unidade Central[cite: 1]
+│   └── modules_test/                 # Códigos isolados para teste e calibração de sensores[cite: 1]
 │
-├── data_analysis/                    # Análise de dados pós-corrida / pós-treino
-│   ├── notebooks/                    # Scripts Python/MATLAB e Jupyter Notebooks
-│   ├── raw_data/                     # Logs brutos salvos no Cartão SD / Telemetria
-│   └── processed_data/               # Dados filtrados e processados
+├── data_analysis/                    # Análise de dados pós-corrida e pós-treino[cite: 1]
+│   ├── notebooks/                    # Jupyter Notebooks ou scripts Python/MATLAB[cite: 1]
+│   ├── raw_data/                     # Logs brutos salvos no SD / Telemetria (.csv)[cite: 1]
+│   └── processed_data/               # Dados filtrados e processados[cite: 1]
 │
-└── interface/                        # Interfaces visuais / Dashboards
-    ├── dashboard_embarcado/          # Display do piloto
-    └── telemetria_pit/               # Software do box / telemetria via rádio
+└── interface/                        # Interfaces visuais e Dashboards[cite: 1]
+    ├── dashboard_embarcado/          # Display do piloto[cite: 1]
+    └── telemetria_pit/               # Software do box / telemetria via rádio[cite: 1]
