@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER DA EQUIPE -->
-  <img src="Banner_Github_Baja.jpg" alt="Banner Piratas do Vale" width="100%">
+  <img src="C:\Users\danie\OneDrive-Unesp\FEG\Baja\Banner_Github_Baja.jpeg" alt="Banner Piratas do Vale" width="100%">
 
   # 🏴‍☠️ Piratas do Vale — Eletrônica & Telemetria
 
