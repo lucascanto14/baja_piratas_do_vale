@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- BANNER DA EQUIPE -->
+  <!-- BANNER DA EQUIPE -->
   <img src="docs/Banner_Github_Baja.jpeg" alt="Banner Piratas do Vale" width="100%">
 
   # 🏴‍☠️ Piratas do Vale — Eletrônica & Telemetria
@@ -30,7 +30,7 @@ O objetivo principal é realizar a aquisição de dados em tempo real, monitoram
 baja_piratas_do_vale/
 │
 ├── docs/                             # Documentação técnica, manuais, pinout e banner
-│   ├── Banner_Github_Baja.jpg        # Imagem de capa do repositório
+│   ├── Banner_Github_Baja.jpeg       # Imagem de capa do repositório
 │   ├── pinout_placa_principal.md     # Mapeamento de pinos dos microcontroladores
 │   └── manual_sensores.md            # Especificações de calibração dos sensores
 │
