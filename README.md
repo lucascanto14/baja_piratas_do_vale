@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER DA EQUIPE -->
-  <img src="docs/banner_piratas_do_vale.png" alt="Banner Piratas do Vale" width="100%">
+  <img src="Banner_Github_Baja.jpg" alt="Banner Piratas do Vale" width="100%">
 
   # 🏴‍☠️ Piratas do Vale — Eletrônica & Telemetria
 
@@ -30,7 +30,7 @@ O objetivo principal é realizar a aquisição de dados em tempo real, monitoram
 baja_piratas_do_vale/
 │
 ├── docs/                             # Documentação técnica, manuais, pinout e banner
-│   ├── banner_piratas_do_vale.png    # Imagem de capa do repositório
+│   ├── Banner_Github_Baja.jpg        # Imagem de capa do repositório
 │   ├── pinout_placa_principal.md     # Mapeamento de pinos dos microcontroladores
 │   └── manual_sensores.md            # Especificações de calibração dos sensores
 │
@@ -49,4 +49,4 @@ baja_piratas_do_vale/
 │
 └── interface/                        # Interfaces visuais e Dashboards
     ├── dashboard_embarcado/          # Display do piloto
-    └── telemetria_pit/               # Software do box / telemetria via rádio[cite: 1]via rádio
+    └── telemetria_pit/               # Software do box / telemetria via rádio
