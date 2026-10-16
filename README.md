@@ -8,7 +8,7 @@
   **Equipe Baja SAE da FEG UNESP (Faculdade de Engenharia de Guaratinguetá)**
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/piratasdovale)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/piratasdovale/)
 
 
 
